@@ -21,7 +21,7 @@ This repository contains mobile forensic investigations, artifact analysis exerc
 
 ## Objective
 
-The goal of this repository is to demonstrate hands-on mobile forensics skills, evidence handling practices, and structured forensic documentation suitable for entry-level DFIR and mobile forensic analyst roles.
+The goal of this repository is to demonstrate hands-on mobile forensics skills, evidence handling practices, and structured forensic documentation suitable for DFIR and mobile forensic analyst roles.
 
 ## Disclaimer
 
