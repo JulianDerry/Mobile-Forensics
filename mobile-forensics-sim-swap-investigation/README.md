@@ -22,7 +22,6 @@
 | Lead Examiner | Julian Derry |
 | Organization | Hive Consult — Digital Forensics Division |
 | Report Date | 2025-04-02 |
-| Status | Final |
 
 ---
 
